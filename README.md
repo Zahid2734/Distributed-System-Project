@@ -1,6 +1,7 @@
 # Distributed-System-Project
 Langugage : Python 2.7 
-System : Ubuntu 18.04 Folders:
+System : Ubuntu 18.04 
+# Folders:
 1. Single SERVER-CLIENT model: Single_Server.py, Client1.py, Client2.py 
 2. Multi SERVER-CLIENT model: Multi_Client_Server.py, Client1.py, Client2.py
 3. RPC model: RPC_Server.py, RPC_Client.py
