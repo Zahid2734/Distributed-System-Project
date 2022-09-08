@@ -7,7 +7,7 @@ System : Ubuntu 18.04 Folders:
 4. Asynchronous RPC: Asynchronous_Server.py, Asynchronous_Client.py 
 5. Deferred Synchronous RPC: Deferred_Synchronous_Server.py, Deferred_Synchronous_Client.py 
 
-Instructions: For Single SERVER-CLIENT model and Multi-SERVER-CLIENT model 
+# Instructions: For Single SERVER-CLIENT model and Multi-SERVER-CLIENT model 
 1. For Single SERVER-CLIENT model and Multi SERVER-CLIENT model, please change the Server_Directory and Client_Directory as per their directory in your system and compile them. [better to keep client and server in different folders to see better output] 
 2. Open terminals, first for server and then for client. 
 3. Run server in one terminal. 
@@ -15,5 +15,5 @@ Instructions: For Single SERVER-CLIENT model and Multi-SERVER-CLIENT model
 5. Follow instructions in client terminal. 
 6. Check output in server and client folders. 
 
-For RPC model, Asynchronous RPC and Deferred Synchronous: 
+# For RPC model, Asynchronous RPC and Deferred Synchronous: 
 Please import all modules specially math, numpy. Run the server and client in different terminals.
